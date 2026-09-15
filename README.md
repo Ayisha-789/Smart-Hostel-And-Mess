@@ -43,7 +43,7 @@ hostel and mess operations.
 This project was developed collaboratively by a team of six members.
 - **Jaya Abirami S** — [GitHub Profile](https://github.com/jayaabirami23-llll)
 - **Kaviya Shree P** — [GitHub Profile](https://github.com/kaviyashree-p)
-- **Hari Priya** — [GitHub Profile](https://github.com/haripriya510-r)
+- **Hari Priya R** — [GitHub Profile](https://github.com/haripriya510-r)
 - **Ayisha Banu N** — [GitHub Profile](https://github.com/Ayisha-789)
 - **Mohana Amruta D** — [GitHub Profile](https://github.com/Mohana-amruta)
 - **Ramapriya S** — [GitHub Profile](https://github.com/ramapriya1509)
